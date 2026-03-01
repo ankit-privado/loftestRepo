@@ -5,5 +5,6 @@ public class UserController {
         String email = user.getEmail();
         String phoneNumber = user.getPhoneNumber();
         String username = user.getUsername();
+        String creditcardno = "11111";
     }
 }
